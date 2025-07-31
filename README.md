@@ -66,23 +66,6 @@ app.get('/hello', (req, res) => {
 
 ---
 
-### 💼 Recent Experience
-
-```mermaid
-timeline
-    title Career Journey
-    2022.08 - 2022.10 : Backend Development
-                       : 3개월간 집중 개발
-    2023.09 - 2023.10 : System Architecture
-                       : 확장 가능한 시스템 설계
-    2023.11 - 2023.12 : Performance Optimization
-                       : 시스템 성능 최적화
-    2024.10 - 2024.12 : Full Stack Development
-                       : 종합적인 개발 경험
-    2024.10 - 2025.01 : Lead Developer
-                       : 팀 리딩 및 아키텍처 설계
-```
-
 ## 📊 GitHub Stats
 
 <div align="center">
