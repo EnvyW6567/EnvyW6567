@@ -46,21 +46,19 @@
 ### 🐱 [Cat Framework](https://www.npmjs.com/package/@envyw/cat-framework)
 > **TypeScript 기반 경량 웹 프레임워크**
 
-```typescript
-// 간단하고 직관적인 라우팅
-import { Cat } from '@envyw/cat-framework';
-
-const app = new Cat();
-app.get('/hello', (req, res) => {
-  res.json({ message: 'Hello from Cat Framework!' });
-});
-```
-
-**🔧 Tech Stack:** `TypeScript` `Node.js` `Express.js`  
 **⭐ Features:** 
 - 🚀 경량화된 아키텍처
 - 📦 NPM 패키지로 배포
 - 🛠️ 개발자 친화적 API
+
+### [Highroller Market](https://www.highrollermarket.com)
+> **Dark and Darker 외부 거래 플랫폼 (개발 중)**
+
+**⭐ Features:** 
+- 🚀 배포 후 지속적인 개발 방법 적용
+- 📦 TDD에 대한 도전
+- 🛠️ 풀스택 개발
+
 
 ---
 
@@ -74,23 +72,21 @@ app.get('/hello', (req, res) => {
   
 </div>
 
-## 🌟 Achievements
 
 <div align="center">
 
-![Achievement](https://img.shields.io/badge/2024.12-Award_Winner-gold?style=for-the-badge&logo=trophy)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel)
 ![NPM](https://img.shields.io/badge/NPM-Package_Published-red?style=for-the-badge&logo=npm)
 
 </div>
 
-## 🤝 Let's Connect!
+## 🤝 Contact
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://envyw.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnvyW6567)
-[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@envyw/cat-framework)
+[![Cat Framework NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@envyw/cat-framework)
 
 </div>
 
