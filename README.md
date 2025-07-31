@@ -43,9 +43,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 </div>
 
-## 🎯 Featured Projects
+## 🎯 진행 중인 프로젝트
 
-### 🐱 [Cat Framework](https://www.npmjs.com/package/@envyw/cat-framework)
+### [Cat Framework](https://www.npmjs.com/package/@envyw/cat-framework)
 > **TypeScript 기반 경량 웹 프레임워크**
 
 **⭐ Features:** 
@@ -54,32 +54,22 @@
 - 🛠️ 개발자 친화적 API
 
 ### [Highroller Market](https://www.highrollermarket.com)
-> **Dark and Darker 외부 거래 플랫폼 (개발 중)**
+> **Dark and Darker 외부 거래 플랫폼 (개발 중)**  
 > **검색 창에 아이템(영어만 지원)을 입력하고 검색해보세요!**
 
 **⭐ Features:** 
-- 🚀 배포 후 지속적인 개발 방법 적용
+- 🚀 배포 후 지속적인 개발
 - 📦 TDD에 대한 도전
-- 🛠️ 풀스택 개발
+- 🛠️ SpringBoot, React 풀스택 개발
 
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; width: window;">
   <img src="https://github-readme-stats.vercel.app/api?username=EnvyW6567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnvyW6567&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-
-
-<div align="center">
-
-![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel)
-![NPM](https://img.shields.io/badge/NPM-Package_Published-red?style=for-the-badge&logo=npm)
-
-</div>
 
 ## 🤝 Contact
 
