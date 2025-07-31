@@ -11,11 +11,9 @@
 > 💡 **"배움에는 트레이드오프가 없다"**  
 > 깊이 있는 기술 이해를 추구하며, 문제 해결에 열정적인 백엔드 개발자입니다.
 
-- 🔭 현재 **Cat Framework** 개발 및 유지보수 중
+- 🔭 **Cat Framework** 개발 및 유지보수
 - 🌱 **Spring Boot**와 **NestJS**로 확장성 있는 백엔드 아키텍처 구축
-- 👯 오픈소스 프로젝트 기여에 관심 많음
-- 💬 **Python**, **TypeScript**, **Java**에 대해 이야기해보세요!
-- 📫 연락처: **[Portfolio](https://envyw.com)**
+- 📫 **[Portfolio](https://envyw.com)**
 
 ## 🛠️ Tech Stack
 
