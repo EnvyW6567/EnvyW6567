@@ -1,7 +1,9 @@
 # Welcome = true
 
 <div align="center">
+  
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Specialist;Framework+Creator;Always+Learning+New+Things)
+  
 </div>
 
 ## 🚀 About Me
@@ -11,14 +13,25 @@
 > 깊이 있는 기술 이해를 추구하며, 문제 해결에 열정적인 백엔드 개발자입니다.  
 > 시스템의 본질을 이해하고 확장 가능한 아키텍처를 설계하는 백엔드 개발자입니다.  
 > 문제의 근본 원인을 파악하고 체계적인 해결책을 제시하는 것을 추구합니다.
+<br/>
 <div>
-![Portfolio](https://img.shields.io/badge/🔗_좀_더_알아보고_싶다면-Portfolio_Visit_Now-00D4AA?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://envyw.com)
+  
+[![Portfolio](https://img.shields.io/badge/🔗_좀_더_알아보고_싶다면-Portfolio_Visit_Now-00D4AA?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://envyw.com)
 
 </div>
 
 
 
 ## 🛠️ Tech Stack
+
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+
+<img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=EnvyW6567&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&icon_color=00d4aa" alt="GitHub Stats" />
+
+<img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnvyW6567&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Top Languages" />
+
+</div>
+
 
 <div align="center">
 
@@ -72,10 +85,6 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; width: window;">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnvyW6567&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnvyW6567&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 
 ## 🤝 Contact
