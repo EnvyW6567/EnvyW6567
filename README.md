@@ -87,18 +87,6 @@
 
 
 
-## 🤝 Contact
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://envyw.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnvyW6567)
-[![Cat Framework NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@envyw/cat-framework)
-
-</div>
-
----
-
 <div align="center">
   
   **💡 "코드는 문제를 해결하는 도구이지, 목적이 아니다"**
