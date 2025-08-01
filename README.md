@@ -9,8 +9,15 @@
 ## 🚀 About Me
 
 > 💡 **"배움에는 트레이드오프가 없다"**  
-> 깊이 있는 기술 이해를 추구하며, 문제 해결에 열정적인 백엔드 개발자입니다.
-- **[Portfolio](https://envyw.com)**
+> 깊이 있는 기술 이해를 추구하며, 문제 해결에 열정적인 백엔드 개발자입니다.  
+> 시스템의 본질을 이해하고 확장 가능한 아키텍처를 설계하는 백엔드 개발자입니다.
+문제의 근본 원인을 파악하고 체계적인 해결책을 제시하는 것을 추구합니다.
+<div>
+
+[![Portfolio](https://img.shields.io/badge/🔗_좀_더_알아보고_싶다면-Portfolio_Visit_Now-00D4AA?style=for-the-badge&logoColor=white&labelColor=1a1a1a)](https://envyw.com)
+
+</div>
+
 
 ## 🛠️ Tech Stack
 
